@@ -6,3 +6,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### This is a list example in markdowns
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
